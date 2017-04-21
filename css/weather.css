@@ -1,0 +1,73 @@
+#search
+{
+	color: black;
+}
+
+#paragraph
+{
+    color:black;
+    font-size: 300%;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+#firstpic
+{
+    height: 550px;
+    width: 1400px;
+    margin: auto;
+}
+
+#secondpic
+{
+    height: 550px;
+    width: 1400px;
+    margin: auto;
+}
+body
+{
+    background: white;
+}
+.navbar-form
+{
+	margin-left:5px;
+
+}
+#search{
+    text-align: center;
+}
+
+#logo
+{
+	width: 120px;
+    height: 70px;
+
+
+}
+
+
+        .navbar-nav
+        {
+        	padding-top: 25px;
+        }
+
+        #icons
+        {
+            margin-top: 40px;
+            background: black;
+            color: white;
+        }
+
+        #weather
+        {
+            color: darkblue;
+            font-size: 160%;
+            text-align: center;
+        }
+
+        #input
+        {
+            width: 270px;
+        }
