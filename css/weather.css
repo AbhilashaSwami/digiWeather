@@ -71,3 +71,39 @@ body
         {
             width: 270px;
         }
+
+        #output1
+        {
+            color: black;
+            font-size: 100%;
+        }
+
+        #output2
+        {
+            color: blue;
+            font-size: 100%;
+
+        }
+
+        #output3
+        {
+            color: darkgrey;
+            font-size: 100%
+
+        }
+
+        #output4
+        {
+            color: violet;
+            font-size: 100%;
+
+        }
+
+        #output5
+        {
+            color: brown;
+            font-size: 100%;
+            
+        }
+
+       
